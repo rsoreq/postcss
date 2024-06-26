@@ -94,7 +94,7 @@
     "@types/node": "^20.11.30",
     "c8": "^9.1.0",
     "check-dts": "^0.7.2",
-    "clean-publish": "^4.3.0",
+    "clean-publish": "^5.0.0",
     "concat-with-sourcemaps": "^1.1.0",
     "eslint": "^8.57.0",
     "nanodelay": "^1.0.8",
